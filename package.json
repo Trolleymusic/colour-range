@@ -1,6 +1,6 @@
 {
   "name": "colour-range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a wide list of unique colours, based on shifting the hue of the colours",
   "main": "lib/index.js",
   "files": [
